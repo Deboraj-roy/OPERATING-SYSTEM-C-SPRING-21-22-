@@ -1,8 +1,0 @@
-Tis is test file .txt
-id, name
-12334534, XZY
-12334535, XZA
-12334536, XZB
-
-
-
