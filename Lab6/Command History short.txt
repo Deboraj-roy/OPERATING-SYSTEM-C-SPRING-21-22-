@@ -1,0 +1,50 @@
+1944 ls lab-6
+1945 test1.c
+1946 lsd lab-6
+1947 cd/ lab-6
+1948 cd/.lab6
+1949 cd/lab-6
+1950 cd lab-6
+1951 cat test3.c
+1952 gcc test3.c -o test3
+1953 ./test3
+1954 gcc test3 -
+1955 gcc test3.c -o test3
+1956 ./test3
+1957 vi test1.txt
+1958 tuch test1.txt
+1959 touch test1.txt
+1960 ls
+1961 vi test1.txt
+1962 vi test2.txt
+1963 cat tezt2.txt
+1964 cat test2.txt
+1965 ls
+1966 vi program.c
+1967 vi prog.c
+1968 cat prog.c
+1969 gcc prog.c -o prog
+1970 ./prog
+1971 vi prog.c
+1972 cat prog.c
+1973 gcc prog.c -o prog
+1974 ./prog
+1975 vim ft.txt
+1976 sudo apt install vim
+1977 vim ft.txt
+1978 ls
+1979 vim vimfile.c
+1980 cat vimfile.c
+1981 gcc vimfile.c -o progd
+1982 ls
+1983 cd ../
+1984 ls
+1985 cd lab6
+1986 touch sec2.c
+1987 nano sec2.c
+1988 cat sec2.c
+1989 gcc sec2.c -o sec2
+1990 nano sec2.c
+1991 gcc sec2.c -o sec2
+1992 ./sec2
+1993 history

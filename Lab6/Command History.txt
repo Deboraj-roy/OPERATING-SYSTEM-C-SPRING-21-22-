@@ -1,0 +1,709 @@
+22-03-2022
+lab 06
+
+
+---------------------------------------
+
+
+
+
+ 1294  clear
+ 1295  nano input-output.sh
+ 1296  chmod +x input-output.sh
+ 1297  ./input-output.sh
+ 1298  chmod +x input-output.sh
+ 1299  ./input-output.sh
+ 1300  chmod +x input-output.sh
+ 1301  ./input-output.sh
+ 1302  chmod
+ 1303  chmod --help
+ 1304  mkdir 18-37660-1
+ 1305  cd 18-37660-1
+ 1306  nano 18-37660-1
+ 1307  chmod +x 18-37660-1.sh
+ 1308  ./18-37660-1.sh
+ 1309  nano 18-37660-1
+ 1310  nano 18-37660-1.sh
+ 1311  chmod +x 18-37660-1.sh
+ 1312  ./18-37660-1.sh
+ 1313  nano 18-37660-1.sh
+ 1314  chmod +x 18-37660-1.sh
+ 1315  ./ 18-37660-1.sh
+ 1316  chmod +x 18-37660-1.sh
+ 1317  ./18-37660-1.sh
+ 1318  nano 18-37660-1
+ 1319  nano 18-37660-1.sh
+ 1320  chmod +x 18-37660-1.sh
+ 1321  ./18-37660-1.sh
+ 1322  nano 18-37660-1.sh
+ 1323  chmod +x 18-37660-1
+ 1324  ./chmod +x 18-37660-1.sh
+ 1325  nano 18-37660-1.sh
+ 1326  chmod +x 18-37660-1
+ 1327  chmod +x 18-37660-1.sh
+ 1328  ./18-37660-1.sh
+ 1329  ./18-37660-1
+ 1330  clear
+ 1331  chmod +x 18-37660-1.sh
+ 1332  ./18-37660-1.sh
+ 1333  clear
+ 1334  chmod +x 18-37660-1.sh
+ 1335  ./18-37660-1.sh
+ 1336  nano 18-37660-1.sh
+ 1337  chmod +x 18-37660-1.sh
+ 1338  ./18-37660-1.sh
+ 1339  nano 18-37600-1.sh
+ 1340  nano 18-37660-1.sh
+ 1341  clear
+ 1342  chmod + 18-37660-1.sh
+ 1343  ./18-37660-1.sh
+ 1344  nano swadhin.sh
+ 1345  nano 18-37660-1.sh
+ 1346  nano swadhin.sh
+ 1347  nano 18-37660-1.sh
+ 1348  nano swadhin.ch
+ 1349  nano swadhin.sh
+ 1350  nano Work.sh
+ 1351  Chmod 755 work.sh
+ 1352  chmod 755 Work.sh
+ 1353  ./Worl.sh
+ 1354  ./Work.sh
+ 1355  jytty7utituituiuytyuyuyjwetrtGHFGUH4545845415145DGFDGETYHRTYHRTYHRTFYHRTFYHHHHHHURIOLUILJHHHHHKLHJKHRM
+ 1356  cat>>os
+ 1357  cat>>iju
+ 1358  nano work2.sh
+ 1359  chmod 755 work2.sh
+ 1360  chmod Work2.sh
+ 1361  chmod 755 Work2.sh
+ 1362  chmod 755 work2.sh
+ 1363  ./work2.sh
+ 1364  chmod 755 work2.sh
+ 1365  ./work2.sh
+ 1366  nano workno2.sh
+ 1367  chmod 755 workno2.sh
+ 1368  ./workno2.sh
+ 1369  chmod 755 work2.sh
+ 1370  ./work2.sh
+ 1371  chmod 755 work2.sh
+ 1372  ./work2.sh
+ 1373  nano workno2.sh
+ 1374  cat>>testdir
+ 1375  nano swadhin1.sh
+ 1376  chmod +x swadhin.sh
+ 1377  chmod +x swadhin1.sh
+ 1378  ./swadhin.sh
+ 1379  ./swadhin1.sh
+ 1380  nano swadhin1.sh
+ 1381  nano 18-37660-1.sh
+ 1382  chmod + 18-37660-1.sh
+ 1383  ./18-37660-1.sh
+ 1384  chmod +x 18-37660-1.sh
+ 1385  ./18-37660-1.sh
+ 1386  clear
+ 1387  nano 18-37660-1.sh
+ 1388  chmod +x 18-37660-1.sh
+ 1389  ./18-37660-1.sh
+ 1390  clear
+ 1391  nano 18-37660-1.sh
+ 1392  clear
+ 1393  chmod +x 18-37660-1.sh
+ 1394  ./18-37660-1.sh
+ 1395  chmod +x 18-37660-1.sh
+ 1396  ./18-37660-1.sh
+ 1397  rm *.sh
+ 1398  1340/2est-pwd
+ 1399  nano prac.sh
+ 1400  nano work.sh
+ 1401  chmod 755 worl.sh
+ 1402  chmod 755 work.sh
+ 1403  ./work.sh
+ 1404  mkdir
+ 1405  cat >>testdir
+ 1406  history
+ 1407  chmod +x ./myscript.sh
+ 1408  ./myscript.sh
+ 1409  nano myscript.sh
+ 1410  chmod +x ./myscript.sh
+ 1411  ./myscript.sh
+ 1412  vi file1
+ 1413  VI FILENM
+ 1414  vi filenm
+ 1415  vi filenms
+ 1416  vi sam
+ 1417  vi file110
+ 1418  vi sam
+ 1419  cd Desktop
+ 1420  cd Desktop/
+ 1421  cd D
+ 1422  vi filename
+ 1423  cd Desktop/
+ 1424  cd
+ 1425  vi f1
+ 1426  cd desktop/
+ 1427  vi f2
+ 1428  cd /Desktop
+ 1429  vi f5
+ 1430  mkdir makeuplab.cpp
+ 1431  nano makeuplab.cpp
+ 1432  pwd
+ 1433  vi makeuplab.sh
+ 1434  nano makeuplab.sh
+ 1435  bash add.sh
+ 1436  bash makeuplab.sh
+ 1437  nano makeuplab.sh
+ 1438  bash makeuplab.sh
+ 1439  nano makeuplab.sh
+ 1440  bash makeuplab.sh
+ 1441  nano makeuplab.sh
+ 1442  bash makeuplab.sh
+ 1443  nano makeuplab.sh
+ 1444  bash makeuplab.sh
+ 1445  nano makeuplab.sh
+ 1446  bash makeuplab.sh
+ 1447  cat/etc/shells
+ 1448  shells
+ 1449  vi nms
+ 1450  ni nms
+ 1451  vi nms
+ 1452  vi file1
+ 1453  vi nms
+ 1454  ./nms
+ 1455  chmod u+x nms
+ 1456  ./nms
+ 1457  vi nms
+ 1458  ./nms
+ 1459  vi nms
+ 1460  ./nms
+ 1461  vi nms
+ 1462  vi cv
+ 1463  chmod u+x cv
+ 1464  ./cv
+ 1465  vi cv
+ 1466  ./cv
+ 1467  bash cv
+ 1468  ./cv
+ 1469  vi cv
+ 1470  ./cv
+ 1471  vi cv
+ 1472  ./cv
+ 1473  vi cv
+ 1474  ./cv
+ 1475  vi cv
+ 1476  ./cv
+ 1477  vi cv
+ 1478  ./cv
+ 1479  vi cv
+ 1480  ./cv
+ 1481  vi cv
+ 1482  ./cv
+ 1483  vi cv
+ 1484  ./cv
+ 1485  vi cs
+ 1486  vi cv
+ 1487  ./cv
+ 1488  vi cv
+ 1489  ./cv
+ 1490  vi cv
+ 1491  ./cv
+ 1492  vicv
+ 1493  vi cv
+ 1494  ./cv
+ 1495  vi cv
+ 1496  ./cv
+ 1497  vi cv
+ 1498  ./cv
+ 1499  vi cv
+ 1500  ./cv
+ 1501  vi cv
+ 1502  ./cv
+ 1503  vi cv
+ 1504  vi cgpa
+ 1505  vi cv
+ 1506  vi cgpa
+ 1507  ./cgpa
+ 1508  chmod u+x cgpa
+ 1509  ./cgpa
+ 1510  vi cgpa
+ 1511  who r you
+ 1512  touch F1
+ 1513  touch B1
+ 1514  vi B
+ 1515  vi S
+ 1516  I
+ 1517  vi A
+ 1518  vi R
+ 1519  #! /bin/bash
+ 1520  echo $ "Hello World"
+ 1521  :wq
+ 1522  vi E
+ 1523  #!/bin/bash
+ 1524  echo $ "Hello World"
+ 1525  ./S
+ 1526  ./F1
+ 1527  chmod 775 F1
+ 1528  ./F1
+ 1529  #! /bin/bush
+ 1530  Name=Jim
+ 1531  Id=17-36006-3
+ 1532  CGpa=3.50
+ 1533  echo -e "My Name is $Name /Id $Id/ncgpa
+ 1534  wq
+ 1535  #! /bin/bash
+ 1536  name=Humaira
+ 1537  Id=17-36006-3
+ 1538  echo -e "My name is sname /nid $Id/n"
+ 1539  vi A
+ 1540  ./A
+ 1541  chmod 775 A
+ 1542  ./A
+ 1543  vi u
+ 1544  vi J
+ 1545  vi O
+ 1546  vi L
+ 1547  ./L
+ 1548  chmod 775 L
+ 1549  ./L
+ 1550  :wq
+ 1551  vi L
+ 1552  ./L
+ 1553  vi L
+ 1554  ./L
+ 1555  vi L
+ 1556  ./L
+ 1557  vi L
+ 1558  ./ L
+ 1559  tput clear
+ 1560  ./ L
+ 1561  ./L
+ 1562  vi L
+ 1563  ./L
+ 1564  vi L
+ 1565  ./L
+ 1566  vi L
+ 1567  ./L
+ 1568  vi L
+ 1569  ./L
+ 1570  vi L
+ 1571  ./L
+ 1572  sudo ./L
+ 1573  su ./L
+ 1574  ls
+ 1575  pwd
+ 1576  pwd.sh
+ 1577  vi home.sh
+ 1578  nano
+ 1579  nano sou
+ 1580  pwd
+ 1581  chmod 777 sou.sh
+ 1582  chmod +x sou.sh
+ 1583  ./sou.sh
+ 1584  nano sou2.sh
+ 1585  chmod 777 sou2.sh
+ 1586  chmod +x sou2.sh
+ 1587  ./sou2.sh
+ 1588  nano sou3.sh
+ 1589  chmod 777 sou3.sh
+ 1590  chmod +x sou3.sh
+ 1591  ./sou3.sh
+ 1592  nano sou3.sh
+ 1593  ./sou3.sh
+ 1594  nano sou3.sh
+ 1595  ./sou3.sh
+ 1596  nano sou3.sh
+ 1597  nano sou4.sh
+ 1598  chmod +x sou4.sh
+ 1599  chmod 777 sou4.sh
+ 1600  chmod +x sou4.sh
+ 1601  ./sou4.sh
+ 1602  nano sou5.sh
+ 1603  chmod 777 sou5.sh
+ 1604  chmod +x sou5.sh
+ 1605  ./sou5.sh
+ 1606  nano sou6.sh
+ 1607  chmod 777 sou6.sh
+ 1608  chmod +x sou6.sh
+ 1609  ./sou6.sh
+ 1610  nano sou7.sh
+ 1611  chmod 777 sou7.sh
+ 1612  chmod +x sou7.sh
+ 1613  ./sou7.sh
+ 1614  nano salary.sh
+ 1615  chmod 777 salary.sh
+ 1616  chmod +x salary.sh
+ 1617  ./salary.sh
+ 1618  nano salary.sh
+ 1619  ./salary.sh
+ 1620  nano salary.sh
+ 1621  ./salary.sh
+ 1622  nano salary.sh
+ 1623  nana new4.sh
+ 1624  nano new4.sh
+ 1625  chmod 777 new4.sh
+ 1626  chmod +x new4.sh
+ 1627  ./new4.sh
+ 1628  nano sou3.sh
+ 1629  ./sou3.sh
+ 1630  nano salary.sh
+ 1631  nano new5.sh
+ 1632  chmod 777 new5.sh
+ 1633  chmod +x new5.sh
+ 1634  ./sou5.sh
+ 1635  nano new6.sh
+ 1636  chmod +x new6.sh
+ 1637  chmod 777 new6.sh
+ 1638  ./sou6.sh
+ 1639  nano new7.sh
+ 1640  chmod +x new7.sh
+ 1641  chmod 777 new7.sh
+ 1642  ./sou7.sh
+ 1643  nano home.sh
+ 1644  bash home.sh
+ 1645  nano home.sh
+ 1646  bash home.sh
+ 1647  vi file1
+ 1648  vi max
+ 1649  firefox
+ 1650  ./file1
+ 1651  chmod u+x file1
+ 1652  ./file1
+ 1653  vi comp
+ 1654  chmod u+x comp
+ 1655  ./comp
+ 1656  vi comp
+ 1657  ./comp
+ 1658  vi comp
+ 1659  ./comp
+ 1660  vi comp
+ 1661  ./comp
+ 1662  clear
+ 1663  vi loop
+ 1664  chmod u+x loop
+ 1665  ./loop
+ 1666  vi loop
+ 1667  vi task
+ 1668  chmod u+x task
+ 1669  ./task
+ 1670  vi task
+ 1671  ./task
+ 1672  vi array
+ 1673  clear
+ 1674  vi aiub.sh
+ 1675  vi name.txt
+ 1676  mkdir lab6
+ 1677  ls
+ 1678  mkdir lab6
+ 1679  cd media
+ 1680  mkdir lab6
+ 1681  touch lab6.txt
+ 1682  ls
+ 1683  clear
+ 1684  pwd
+ 1685  clear
+ 1686  mkdir LAb
+ 1687  clear
+ 1688  cd home/student
+ 1689  clear
+ 1690  cd lab6
+ 1691  ls
+ 1692  gcc fcfs.c -o test
+ 1693  clear
+ 1694  ls
+ 1695  gcc fcfs.c -o test
+ 1696  ls
+ 1697  gcc trial.c -o testit
+ 1698  clear
+ 1699  ls
+ 1700  ./test
+ 1701  clear
+ 1702  ls
+ 1703  ls
+ 1704  mkdir lab6
+ 1705  ls
+ 1706  cd lab6
+ 1707  touch text.c
+ 1708  ls
+ 1709  cat text.c
+ 1710  gcc text.c -o test
+ 1711  nano text.c
+ 1712  gcc text.c -o test
+ 1713  cat text.c
+ 1714  nano text.c
+ 1715  gcc text.c -o test
+ 1716  ./test
+ 1717  .\test
+ 1718  ./test
+ 1719  clear
+ 1720  gcc text.c -o test
+ 1721  ./text
+ 1722  ./test
+ 1723  cat text.c
+ 1724  nano text.c
+ 1725  gcc text.c -o testC
+ 1726  ./test
+ 1727  gcc text.c -o test
+ 1728  ./test
+ 1729  ls
+ 1730  ./testC
+ 1731  cat text.c
+ 1732  gcc text.c -o test
+ 1733  ./test
+ 1734  gcc text.c -o test
+ 1735  ./test
+ 1736  manu gad
+ 1737  ls
+ 1738  cd lab6
+ 1739  ls
+ 1740  nano text.c
+ 1741  gcc fcfs.c -o test
+ 1742  clear
+ 1743  gcc fcfs.c -o test
+ 1744  gcc fcfs.c -o fcfs
+ 1745  clear
+ 1746  gcc fcfs.c -o fcfs
+ 1747  ./fcfs
+ 1748  gcc fcfs.c -o fcfs
+ 1749  ./fcfs
+ 1750  clear
+ 1751  ./fcfs
+ 1752  gcc fcfs.c -o fcfs
+ 1753  ./fcfs
+ 1754  gcc fcfs.c -o fcfs
+ 1755  ./fcfs
+ 1756  gcc fcfs.c -o fcfs
+ 1757  ./fcfs
+ 1758  gcc fcfs.c -o fcfs
+ 1759  ./fcfs
+ 1760  gcc fcfs.c -o fcfs
+ 1761  ./fcfs
+ 1762  gcc fcfs.c -o fcfs
+ 1763  ./fcfs
+ 1764  clear
+ 1765  gcc fcfs.c -o fcfs
+ 1766  clear
+ 1767  gcc fcfs.c -o fcfs
+ 1768  ./fcfs
+ 1769  ls
+ 1770  gcc sjs.c -o sjs
+ 1771  ./sjs
+ 1772  ls
+ 1773  gcc priority.c -o prio
+ 1774  ./prio
+ 1775  gcc round.c -o round
+ 1776  ./round
+ 1777  sudo reboot
+ 1778  mkdir lab6
+ 1779  mkdir lab66
+ 1780  nano lab6
+ 1781  gcc myprog.c -o myprog
+ 1782  mkdir lab6
+ 1783  mkdir lab666
+ 1784  cd file1.txt
+ 1785  mkdir lab67
+ 1786  cd lab67
+ 1787  nano myprog.c
+ 1788  gcc myprog.c -o myprog
+ 1789  ./myprog
+ 1790  nano  myprog.c
+ 1791  ./myprog
+ 1792  nano myprog.c
+ 1793  y
+ 1794  myprog.c -o myprog
+ 1795  gcc myprog.c -o myprog
+ 1796  nano myprog.c
+ 1797  gcc myprog.c -o myprog
+ 1798  nano myprog.c
+ 1799  gcc myprog.c -o myprog
+ 1800  ./myprog
+ 1801  gcc myprog.c -o myprog
+ 1802  ./myprog
+ 1803  nano myprog.c
+ 1804  gcc myprog.c -o myprog
+ 1805  nano myprog.c
+ 1806  gcc myprog.c
+ 1807  nano myprog.c
+ 1808  ./myprog.c
+ 1809  gcc myprog.c -o myprog
+ 1810  nano myprog.c
+ 1811  gcc myprog.c -o myprog
+ 1812  nano usd.c
+ 1813  gcc usd.c -o usd
+ 1814  ./usd.c
+ 1815  nano usd.c
+ 1816  y
+ 1817  gcc usd.c -o usd
+ 1818  ./usd
+ 1819  clear
+ 1820  nano usd.c
+ 1821  y
+ 1822  gcc usd.c -o usd
+ 1823  ./usd
+ 1824  nano aiub.c
+ 1825  gcc aiub.c -o aiub
+ 1826  ./aiub
+ 1827  gcc usd.c -o usd
+ 1828  ./usd
+ 1829  history
+ 1830  cat test.c
+ 1831  mkdir lab6
+ 1832  vi niloy.fh
+ 1833  vi niloy.sh
+ 1834  mkdir lab-6
+ 1835  cd lab-6
+ 1836  gcc test.c -o test
+ 1837  cat test.c
+ 1838  nano test.c
+ 1839  cat test.c
+ 1840  gcc -o test test.c
+ 1841  gcc -o lab-6 test.c
+ 1842  cat > test.c
+ 1843  cat test.c
+ 1844  nano test.c
+ 1845  cat test.c
+ 1846  gcc test.c  -o test
+ 1847  nano test.c
+ 1848  cat test.c
+ 1849  nano test.c
+ 1850  cat test.c
+ 1851  gcc -o test.c test
+ 1852  cat test.c
+ 1853  gcc -o test.c test
+ 1854  gcc test.c -o test
+ 1855  nano test.c
+ 1856  cat test.c
+ 1857  nano test.c
+ 1858  cat test1.c
+ 1859  gcc test1.c -o test
+ 1860  nano test1.c
+ 1861  mousepad test1.c
+ 1862  gcc test1.c -o test1
+ 1863  ./test1
+ 1864  mousepad test1.c
+ 1865  gcc  test1.c -o test
+ 1866  ./test1
+ 1867  p3 1 2
+ 1868  gcc test1.c -o test
+ 1869  ./test
+ 1870  nano test2.c
+ 1871  cat test2.c
+ 1872  mousepad test2.c
+ 1873  cat test2.c
+ 1874  gcc test2.c -o test2
+ 1875  mousepad test2.c
+ 1876  mousepad test1.c
+ 1877  mousepad test2.c
+ 1878  gcc test2.c -o test2
+ 1879  ./test2
+ 1880  nano test3.c
+ 1881  cat test3.c
+ 1882  mousepad test3.c
+ 1883  gcc test3.c -o test3
+ 1884  ./test2
+ 1885  vi noor.sh
+ 1886  vi noor.sh
+ 1887  ./ niloy.sh
+ 1888  ./ noor.sh
+ 1889  ./noor.sh
+ 1890  chmod 777 noor.sh
+ 1891  ./noor.sh
+ 1892  vinniloy.sh
+ 1893  vi niloy.sh
+ 1894  vi niloy.sh
+ 1895  vi roy.sh
+ 1896  chmod 777 roy.sh
+ 1897  ./roy.sh
+ 1898  vi roy.sh
+ 1899  VI ROY.SH
+ 1900  vi roy.sh
+ 1901  vi roy1.sh
+ 1902  chmod 777 roy1.sh
+ 1903  ./roy1.sh
+ 1904  vi roy2.sh
+ 1905  chmod 777 roy2.sh
+ 1906  ./roy2.sh
+ 1907  vi roy2.sh
+ 1908  vi roy3.sh
+ 1909  vi roy4.sh
+ 1910  chmod 777 roy4.sh
+ 1911  ./roy4.sh
+ 1912  vi roy4.sh
+ 1913  chmod 777 roy4.sh
+ 1914  vi roy4.sh
+ 1915  chmod 777 roy4.sh
+ 1916  ./roy4.sh
+ 1917  vi roy4.sh
+ 1918  chmod 777 roy4.sh
+ 1919  ./roy4.sh
+ 1920  vi roy4.sh
+ 1921  chmod 777 roy4.sh
+ 1922  ./roy4.sh
+ 1923  vi roy4.sh
+ 1924  ./roy4.sh
+ 1925  vi roy4.sh
+ 1926  ./roy4.sh
+ 1927  vi roy4.sh
+ 1928  ./roy4.sh
+ 1929  vi roy4.sh
+ 1930  ./roy4.sh
+ 1931  vi f1.txt
+ 1932  vi asraf.sh
+ 1933  ls
+ 1934  ls v-l
+ 1935  ls -l
+ 1936  mkdir lab7
+ 1937  ls
+ 1938  nano fist.txt
+ 1939  LS
+ 1940  ls
+ 1941  cd lab7
+ 1942  vi test1.txt
+ 1943  cd
+ 1944  ls lab-6
+ 1945  test1.c
+ 1946  lsd lab-6
+ 1947  cd/ lab-6
+ 1948  cd/.lab6
+ 1949  cd/lab-6
+ 1950  cd lab-6
+ 1951  cat test3.c
+ 1952  gcc test3.c -o test3
+ 1953  ./test3
+ 1954  gcc test3 -
+ 1955  gcc test3.c -o test3
+ 1956  ./test3
+ 1957  vi test1.txt
+ 1958  tuch test1.txt
+ 1959  touch test1.txt
+ 1960  ls
+ 1961  vi test1.txt
+ 1962  vi test2.txt
+ 1963  cat tezt2.txt
+ 1964  cat test2.txt
+ 1965  ls
+ 1966  vi program.c
+ 1967  vi prog.c
+ 1968  cat prog.c
+ 1969  gcc prog.c -o prog
+ 1970  ./prog
+ 1971  vi prog.c
+ 1972  cat prog.c
+ 1973  gcc prog.c -o prog
+ 1974  ./prog
+ 1975  vim ft.txt
+ 1976  sudo apt install vim
+ 1977  vim ft.txt
+ 1978  ls
+ 1979  vim vimfile.c
+ 1980  cat vimfile.c
+ 1981  gcc vimfile.c -o progd
+ 1982  ls
+ 1983  cd ../
+ 1984  ls
+ 1985  cd lab6
+ 1986  touch sec2.c
+ 1987  nano sec2.c
+ 1988  cat sec2.c
+ 1989  gcc sec2.c -o sec2
+ 1990  nano sec2.c
+ 1991  gcc sec2.c -o sec2
+ 1992  ./sec2
+ 1993  history
