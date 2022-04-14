@@ -1,0 +1,116 @@
+
+  178  sort -k 4 -t , file1.txt
+  179  echo 19-40158-1
+  180  sort -k 4 -t , file1.txt
+  181  sort -r 4 -t , file1.txt
+  182  sort -r -k 4 -t , file1.txt
+  183  wc file1.txt
+  184  wc -c file
+  185  wc -c file1.txt
+  186  wc -l file1.txt
+  187  nl file1.txt
+  188  nl -i5 file1.txt
+  189  uname -n
+  190  ls
+  191  nl -i5 file1.txt
+  192  echo 19-40158-1
+  193  sort -k 4 t , file1.txt
+  194  sort -k 2 -t , file1.txt
+  195  sort r -k 2 -t , file1.txt
+  196  sort -r -k 2 -t , file1.txt
+  197  sort -u -k 2 -t , file1.txt
+  198  history 10
+  199  ls
+  200  cd document
+  201  cd Document
+  202  cd Documents
+  203  ls
+  204  cd Lab4
+  205  ls
+  206  cat file1.txt
+  207  sort -r -u -k 4 -t , file1.txt
+  208  sort -u -r -k 4 -t , file1.txt
+  209  history
+  210  ls
+
+
+-----------------------------------------------------------------------------------------------------
+ls
+  211  history
+  212  ls
+  213  cd Documents
+  214  ls
+  215  ..
+  216  cd ..
+  217  ls
+  218  ls
+  219  cd ../Documents
+  220  cd Documents
+  221  cd Lab5
+  222  ls
+  223  ls
+  224  cat file1.txt
+  225  grep -v 'Dhaka' file1.txt
+  226  grep -o 'Dhaka' file1.txt
+  227  grep -i 'Dhaka' file1.txt
+  228  grep -v 'Dhaka' file1.txt
+  229  grep -v 'dhaka' file1.txt
+  230  grep -v 'Dhaka' file1.txt
+  231  ls-l
+  232  ls -l
+  233  mkdir testdir
+  234  ls -l
+  235  touch test.c
+  236  ls -l
+  237  chnod +x test.c
+  238  chmod +x test.c
+  239  ls -l
+  240  stat test.c
+  241  stat file1.txt
+  242  rm test.c
+  243  ls -l
+  244  nano test.c
+  245  cat test.c
+  246  gcc test.c -o test
+  247  ls -l
+  248  ./test
+  249  chmod -x test
+  250  ls -l
+  251  ./test
+  252  stat test
+  253  chmod 744 test
+  254  stat test
+  255  chmod 754 test
+  256  stat test
+  257  grep -i "^temp" /var/log/syslog
+  258  grep -i 'temp[0-9]' /var/log/syslog
+  259  grep -i 'temprature' /var/log/syslog
+  260  grep -i temp /var/log/syslog
+  261  grep -i temp /var/log/syslog
+  262  history
+
+
+-----------------------------------------------------------------------------------------------------
+file name : file1.txt
+
+18-12345-1, Name X, Dhaka, 01712345671
+18-23456-1, Name Y, Sylhet, 01722222222
+18-45628-2, Name Z, Rajshahi, 01921221212
+19-43445-1, Name A, Khulna, 01974527384
+19-28725-1, Name B, Chitagong, 01812735629
+19-23587-2, Name C, Barishal, 01503873529
+19-45656-2, Name D, Rangpur, 01934736291
+19-43767-3, Name E, Dinajpur, 0160392849
+2078291-1, Name F, Maymanshing, 01313091447
+20-78297-2, Name G, Maymanshing, 01813092887
+21-78294-1, Name H, Maymanshing, 01713092717
+21-78293-2, Name R, Maymanshing, 01513092997
+
+---------------------------------------------------------------------------------------------------------------------------------
+File Name:  test.c
+
+#include<stdio.h>
+int main(){
+
+printf("Test..\n");
+}
