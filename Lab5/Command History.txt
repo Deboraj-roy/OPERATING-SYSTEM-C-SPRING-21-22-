@@ -1,0 +1,271 @@
+
+
+https://notepad.pw/Deb-Linux
+
+
+history
+    1  ls
+    2  uname
+    3  ls
+    4  uname
+    5  uname -1
+    6  ls -1
+    7  ls -l
+    8  ls
+    9  tree
+   10  ls -l
+   11  exit
+   12  ls
+   13  ls
+   14  uname
+   15  uname -l
+   16  ls
+   17  ls
+   18  cd documents
+   19  tree
+   20  cd Documents
+   21  ls
+   22  exit
+   23  ls
+   24  ls
+   25  cd documents
+   26  cd Documents
+   27  ls
+   28  cd Lab3
+   29  ls
+   30  history
+   31  tree
+   32  ls\
+   33  history/
+   34  history\
+   35  History
+   36  history
+   37  ls
+   38  uname
+   39   uname -n
+   40  history
+   41  tree
+   42  ls
+   43  history
+   44  date
+   45  date +%r
+   46  date 
+   47  date +%D%M&Y
+   48  date +%D%M%Y
+   49  date +%d%M%Y
+   50  date +%d+%M+%Y
+   51  uname -n
+   52  uname -r
+   53  dat
+   54  date
+   55  cal
+   56  cal -3
+   57  cal 6
+   58  uptime
+   59  whoami
+   60  cal
+   61  cal -3
+   62  cal -s
+   63  cal --s
+   64  man cal
+   65  cal -S
+   66  cal -m
+   67  cal -jm
+   68  date
+   69  date +%M
+   70  date +%m
+   71  date +%h%m
+   72  date +%h
+   73  date +%h echo Month name
+   74  date +%H
+   75  date +%M
+   76  date +%r
+   77  date+%r
+   78  date+%D
+   79  date+%d
+   80  date +%d
+   81  help
+   82  date +%d
+   83  date +%r
+   84  date
+   85  who
+   86  who am i
+   87  logname
+   88  histori
+   89  history
+   90  bc
+   91  uname -r
+   92  ping deboraj-virtualBox
+   93  ls
+   94  cd Desktop
+   95  ls
+   96  man cd
+   97  cd help
+   98  --halp cd
+   99  cd --halp
+  100  ls
+  101  ls
+  102  cat file1.txt
+  103  history
+  104  history 10
+  105  sort -k 4 t , file1.txt
+  106  ls
+  107  Document
+  108  ls
+  109  cd Documents
+  110  ls
+  111  ls
+  112  cd lab4
+  113  cd Lab4
+  114  nano file1.txt
+  115  cat file1.txt
+  116  ls
+  117  nano file1.txt
+  118  cat file1.txt
+  119  nano file1.txt
+  120  cat file1.txt
+  121  wc -l file1.txt
+  122  man wc
+  123  nl file1.txt
+  124  man nl
+  125  nano file1.txt
+  126  man nl
+  127  nl file1.txt
+  128  wc -l file1.txt
+  129  wc -c file1.txt
+  130  wc -w file1.txt
+  131  wc file1.txt
+  132  nl file1.txt
+  133  man sort
+  134  who
+  135  who am i
+  136  cat file1.txt
+  137  wc file1.txt
+  138  wc -c file1.txt
+  139  wc-l file1.txt
+  140  wc  -l file1.txt
+  141  wc -l file1.txt
+  142  nl file1.txt
+  143  nl file1
+  144  nl file1.txt
+  145  nl -i5 file1.txt
+  146  nl file1.txt
+  147  man sort
+  148  sort -r file1.txt
+  149  sort -r file1.txt
+  150  sort file1.txt
+  151  sort file1.txt
+  152  sort -r file1.txt
+  153  sort -r file1.txt
+  154  sort -r file1.txt
+  155  sort file1.txt
+  156  sort -r file1.txt
+  157  sort -u file1.txt
+  158  sort -u file1.txt
+  159  sort file1.txt
+  160  sort file1.txt
+  161  sort -k 2 file1.txt
+  162  sort -r -k 2 file1.txt
+  163  sort file1.txt
+  164  sort -r file1.txt
+  165  sort -r -k 2 file1.txt
+  166  sort -r file1.txt
+  167  sort -r -k 2 file1.txt
+  168  sort -r -k 2 file1.txt
+  169  cat  file1.txt
+  170  sort -k 3.3 file1.txt
+  171  cat file1.txt
+  172  sort -k 4.5 -b -n file1.tt
+  173  sort -k 4.5 -b -n file1.txt
+  174  sort -k 3 -t , file1.txt
+  175  sort -k 1 -t , file1.txt
+  176  sort -k 2 -t , file1.txt
+  177  sort -k 3 -t , file1.txt
+  178  sort -k 4 -t , file1.txt
+  179  echo 19-40158-1
+  180  sort -k 4 -t , file1.txt
+  181  sort -r 4 -t , file1.txt
+  182  sort -r -k 4 -t , file1.txt
+  183  wc file1.txt
+  184  wc -c file
+  185  wc -c file1.txt
+  186  wc -l file1.txt
+  187  nl file1.txt
+  188  nl -i5 file1.txt
+  189  uname -n
+  190  ls
+  191  nl -i5 file1.txt
+  192  echo 19-40158-1
+  193  sort -k 4 t , file1.txt
+  194  sort -k 2 -t , file1.txt
+  195  sort r -k 2 -t , file1.txt
+  196  sort -r -k 2 -t , file1.txt
+  197  sort -u -k 2 -t , file1.txt
+  198  history 10
+  199  ls
+  200  cd document
+  201  cd Document
+  202  cd Documents
+  203  ls
+  204  cd Lab4
+  205  ls
+  206  cat file1.txt
+  207  sort -r -u -k 4 -t , file1.txt
+  208  sort -u -r -k 4 -t , file1.txt
+  209  history
+  210  ls
+  211  history
+212  ls
+  213  cd Documents
+  214  ls
+  215  ..
+  216  cd ..
+  217  ls
+  218  ls
+  219  cd ../Documents
+  220  cd Documents
+  221  cd Lab5
+  222  ls
+  223  ls
+  224  cat file1.txt
+  225  grep -v 'Dhaka' file1.txt
+  226  grep -o 'Dhaka' file1.txt
+  227  grep -i 'Dhaka' file1.txt
+  228  grep -v 'Dhaka' file1.txt
+  229  grep -v 'dhaka' file1.txt
+  230  grep -v 'Dhaka' file1.txt
+  231  ls-l
+  232  ls -l
+  233  mkdir testdir
+  234  ls -l
+  235  touch test.c
+  236  ls -l
+  237  chnod +x test.c
+  238  chmod +x test.c
+  239  ls -l
+  240  stat test.c
+  241  stat file1.txt
+  242  rm test.c
+  243  ls -l
+  244  nano test.c
+  245  cat test.c
+  246  gcc test.c -o test
+  247  ls -l
+  248  ./test
+  249  chmod -x test
+  250  ls -l
+  251  ./test
+  252  stat test
+  253  chmod 744 test
+  254  stat test
+  255  chmod 754 test
+  256  stat test
+  257  grep -i "^temp" /var/log/syslog
+  258  grep -i 'temp[0-9]' /var/log/syslog
+  259  grep -i 'temprature' /var/log/syslog
+  260  grep -i temp /var/log/syslog
+  261  grep -i temp /var/log/syslog
+  262  history
+ deboraj  ~  Documents  Lab5  
+
+ deboraj  ~  
