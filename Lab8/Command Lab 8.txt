@@ -1,0 +1,67 @@
+
+ 1948  cat codeA.c
+ 1949  vi codeA.c
+ 1950  cat codeA.c
+ 1951  vi codeA.c
+ 1952  screen
+ 1953  sudo apt install screen
+ 1954  screen
+ 1955  ls -l
+ 1956  whoami
+ 1957  pwd
+ 1958  micro myscript.sh
+ 1959  sudo apt install micro
+ 1960  touch myscript.sh
+ 1961  vim myscript.sh
+ 1962  cat myscript.sh
+ 1963  ./ myscript.sh
+ 1964  ./myscript.sh
+ 1965  chomd +x myscript.sh
+ 1966  chmod +x myscript.sh
+ 1967  ./myscript.sh
+ 1968  vim myscript.sh
+ 1969  ./myscript.sh
+ 1970  vim Program.sh
+ 1971  cat Program.sh
+ 1972  ./Program.sh
+ 1973  chmod +x Program.sh
+ 1974  ./Program.sh
+ 1975  vim Program.sh
+ 1976  ./Program.sh
+ 1977  bash Program.sh
+ 1978  $bash
+ 1979  $BASH
+ 1980  SCREN -R
+ 1981  screen -r
+ 1982  touch myscript2.sh
+ 1983  vim myscript2.sh
+ 1984  chmod +x myscript2.sh
+ 1985  ./myscript2.sh
+ 1986  CAT myscript2.sh
+ 1987  cat myscript2.sh
+ 1988  cp  myscript2.sh myscr22.sh
+ 1989  vim myscr22.sh
+ 1990  ./myscr22.sh
+ 1991  cp myscr22.sh myscript3.sh
+ 1992  vim myscript3.sh
+ 1993  ./myscript3.sh
+ 1994  cat myscript3.sh
+ 1995  echo $BASH
+ 1996  echo $HOME
+ 1997  vim myscript3.sh
+ 1998  ./myscript3.sh
+ 1999  vim myscript3.sh
+ 2000  ./myscript3.sh
+ 2001  vim myscript3.sh
+ 2002  ./myscript3.sh
+ 2003  vim myscript3.sh
+ 2004  ./myscript3.sh
+ 2005  vim myscript3.sh
+ 2006  ./myscript3.sh
+ 2007  cp myscript3.sh myscript4.sh
+ 2008  nano myscript4.sh
+ 2009  ./myscript4.sh
+ 2010  nano myscript4.sh
+ 2011  ./myscript4.sh
+ 2012  history
+student@Linux-VM-00:~/Deb Lab8$ 

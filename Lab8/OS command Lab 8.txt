@@ -1,0 +1,314 @@
+ 1700  ./naimul39513.sh
+ 1701  ./:wq
+ 1702  vi abc5.sh
+ 1703  chomd 777 abc5
+ 1704  chmod 777 abc5.sh
+ 1705  ./abc5.sh
+ 1706  vi abc2.sh
+ 1707  chmod 777 abc2.sh
+ 1708  ./abc2.sh
+ 1709  :i
+ 1710  vi abc99.sh
+ 1711  chmod 777 abc99.sh
+ 1712  ./abc99.sh
+ 1713  :i
+ 1714  vi abc99.sh
+ 1715  :chmod 777 abc99.sh
+ 1716  chmod 777 abc99.sh
+ 1717  ./abc99.sh
+ 1718  vi abc99.sh
+ 1719  chmod 777 abc99.sh
+ 1720  ./abc99.sh
+ 1721  vi abc99.sh
+ 1722  sudo poweroff
+ 1723  vi safaet.sh
+ 1724  mkdir lab6
+ 1725  mkdir lab7
+ 1726  ls
+ 1727  cd lab7
+ 1728  touch rabbi.c
+ 1729  nano rabbi.c
+ 1730  gcc rabbi.c -o rabbi
+ 1731  ./rabbi
+ 1732  cat rabbi.c
+ 1733  mkdir lab7
+ 1734  mkdir lab8
+ 1735  ls
+ 1736  cd lab8
+ 1737  touch fazley.c
+ 1738  nano fazley.c
+ 1739  gcc fazley.c -o fazley
+ 1740  ./fazley
+ 1741  cat fazley.c
+ 1742  cd
+ 1743  mkdir lab7
+ 1744  rm lab7
+ 1745  mkdir newlab7
+ 1746  cd newlab7
+ 1747  touch tarek.txt
+ 1748  nano tarek.txt
+ 1749  cat tarek.txt
+ 1750  rm tarek.txt
+ 1751  ls
+ 1752  k apni bhai??
+ 1753  k bhai k i a
+ 1754  m kon pc te apne???? ei pc 12 no er api am sitting in 12 no 
+ 1755  eksthe chalai
+ 1756  aksatheeksthe chalaieksthe chalai wtfeksthe chalaieksthe chalai
+ 1757  ha vai
+ 1758  na bhai ami chalamuna apnia cjcan bhai please
+ 1759  ok vai
+ 1760  thanks
+ 1761  alhamdulillah apnake ro thanksAllah hafez vai
+ 1762  doaa llakohr bhena
+ 1763  fez apnakeo kisu mone koiren na abr
+ 1764  na vai
+ 1765  apne boss
+ 1766  lol XDhaokc bkehari masnir
+ 1767  hi
+ 1768  pwd
+ 1769  cd
+ 1770  cd opt
+ 1771  cd var
+ 1772  cd newlab7
+ 1773  cd
+ 1774  clear
+ 1775  touch reason.txt
+ 1776  UNAME
+ 1777  uname
+ 1778  $BASH 50
+ 1779  pwd
+ 1780  cleear
+ 1781  cls
+ 1782  clear
+ 1783  $HOME
+ 1784  Name=reason
+ 1785  echo  $Name
+ 1786  echon name
+ 1787  echo Name
+ 1788  clear
+ 1789  echo My name is $Name
+ 1790  echo "This" $Name
+ 1791  "$Name"
+ 1792  # fgfhg ljfg
+ 1793  /sfd
+ 1794  /sdf
+ 1795  read x
+ 1796  x
+ 1797  $x
+ 1798  clear
+ 1799  $Name
+ 1800  first.sh
+ 1801  sh first.sh
+ 1802  read s1 s2 s3 s4 s5
+ 1803  $(expr($s1+$s2+$s3+$s4+$s5/5))
+ 1804  $(expr($s1+$s2+$s3+$s4+$s5)/5)
+ 1805  echo $s1
+ 1806  $(exp $s1+$s2+$s3+$s4+$s5/5)
+ 1807  $(expr $s1+$s2+$s3+$s4+$s5/5)
+ 1808  $(expr $s1+$s2+$s3+$s4+$s5)
+ 1809  `expr $s1+$s2+$s3+$s4+$s5`
+ 1810  `expr 2+2`
+ 1811  `expr 2 + 2`
+ 1812  `expr $s1 + $s2 + $s3 + $s4 + $s5`
+ 1813  $(expr ( $s1 + $s2 + $s3 + $s4 + $s5) / 5)
+ 1814  $(expr( $s1 + $s2 + $s3 + $s4 + $s5 / 5)
+ 1815  $(expr( $s1 + $s2 + $s3 + $s4 + $s5 / 5)
+ 1816  e
+ 1817  dfsdf
+ 1818  exit
+ 1819  clear
+ 1820  dfsadf
+ 1821  asdf
+ 1822  sdfsdfsd
+ 1823  f
+ 1824  s
+ 1825  d
+ 1826  f
+ 1827  f
+ 1828  ff
+ 1829  f
+ 1830  f
+ 1831  f
+ 1832  f
+ 1833  f
+ 1834  f
+ 1835  f
+ 1836  f
+ 1837  f
+ 1838  f
+ 1839  f
+ 1840  f
+ 1841  f
+ 1842  $(expr ( $s1 + $s2 + $s3 + $s4 + $s5) / 5)
+ 1843  $(expr ( $s1 + $s2 + $s3 + $s4 + $s5 ) / 5)
+ 1844  $(expr ($s1 + $s2 + $s3 + $s4 + $s5) / 5)
+ 1845  clear
+ 1846  read s1 s2 s3 s4 s5
+ 1847  clear
+ 1848  read s1 s2 s3 s4 s5
+ 1849  $SUM = $(expr $s1 + $s2 + $s3 + $s4 +$s5)
+ 1850  echo $SUM
+ 1851  $SUM = $( expr $s1 + $s2 + $s3 + $s4 +$s5 )
+ 1852  $SUM =: $(expr $s1 + $s2 + $s3 + $s4 +$s5)
+ 1853  $SUM=$(expr $s1 + $s2 + $s3 + $s4 +$s5)
+ 1854  $SUM=$( expr $s1 + $s2 + $s3 + $s4 +$s 5)
+ 1855  $SUM=$( expr $s1 + $s2 + $s3 + $s4 +$s5 )
+ 1856  SUM=$(expr $s1 + $s2 + $s3 + $s4 +$s5)
+ 1857  SUM=$(expr $s1 + $s2 + $s3 + $s4 + $s5)
+ 1858  $SUM
+ 1859  clear
+ 1860  read s1 s2 s3 s4 s5
+ 1861  SUM=$(expr $s1 + $s2 + $s3 + $s4 + $s5)
+ 1862  $(expr $SUM / 5)
+ 1863  clear
+ 1864  read s1 s2 s3 s4 s5
+ 1865  SUM=$(expr $s1 + $s2 + $s3 + $s4 + $s5)
+ 1866  $(expr $SUM / 5)
+ 1867  clear
+ 1868  # Calculated avarage Marks
+ 1869  clear
+ 1870  # Calculated avarage Marks
+ 1871  read s1 s2 s3 s4 s5
+ 1872  SUM=$(expr $s1 + $s2 + $s3 + $s4 + $s5)
+ 1873  RESULT=$(expr $SUM / 5)
+ 1874  echo $RESULT
+ 1875  first.sh
+ 1876  echo first.sh
+ 1877  sh second.sh
+ 1878  $RESULT
+ 1879  clear
+ 1880  read b1 b2 b3 b4 b5 b6 b7 b8 b9 b10 b11 b12
+ 1881  totalRun=$(expr $b1 + $b2 + $b3 + $b4 + $b5 + $b6 + $b7 + $b8 + $b9 + $b10 + $b11 + $b12)
+ 1882  over=2
+ 1883  runRate=$(expr $totalRun / over)
+ 1884  runRate=$(expr $totalRun / over) | bc
+ 1885  $runRate
+ 1886  clear
+ 1887  totalRun=$(expr $b1 + $b2 + $b3 + $b4 + $b5 + $b6 + $b7 + $b8 + $b9 + $b10 + $b11 + $b12)
+ 1888  clear
+ 1889  read b1 b2 b3 b4 b5 b6 b7 b8 b9 b10 b11 b12
+ 1890  totalRun=$(expr $b1 + $b2 + $b3 + $b4 + $b5 + $b6 + $b7 + $b8 + $b9 + $b10 + $b11 + $b12)
+ 1891  over=2
+ 1892  runRate=$(expr $totalRun / over) | bc
+ 1893  runRate=$(expr $totalRun / over)
+ 1894  $runRate
+ 1895  first.sh
+ 1896  pwd
+ 1897  sh second.sh
+ 1898  sh first.sh
+ 1899  mkdir KAKON
+ 1900  cd KAKON
+ 1901  bash
+ 1902  uname -r
+ 1903  clear
+ 1904  cat KAKON.sh
+ 1905  cat kakon.sh
+ 1906  touch fi.sh
+ 1907  clear
+ 1908  Student = read S1 S2 S3
+ 1909  clear
+ 1910  read S1 S2 S3
+ 1911  clear
+ 1912  taskA$ read S1 S2 S3
+ 1913  clear
+ 1914  touch A.sh
+ 1915  A$ read S1 S2 S3
+ 1916  ls
+ 1917  echo This Pc is resurved
+ 1918  echo Don'n Do anything!
+ 1919  x
+ 1920  echo Don'n Do anything
+ 1921  echo This Pc is resurved
+ 1922  cd KAKON
+ 1923  ./A.sh
+ 1924  chmod 777 A.sh
+ 1925  ./A.sh
+ 1926  clear
+ 1927  touch B.sh
+ 1928  ./B.sh
+ 1929  chmod 777 B.sh
+ 1930  ./B.sh
+ 1931  clear
+ 1932  touch C.sh
+ 1933  ls
+ 1934  cat A.sh
+ 1935  gcc A.sh -o A
+ 1936  mkdir lab6
+ 1937  ls
+ 1938  cd la76
+ 1939  cd lab6
+ 1940  touch rabbi.c
+ 1941  nano
+ 1942  nano rabbi.c
+ 1943  history
+ 1944  vim
+ 1945  sudo apt install vim
+ 1946  vim codeA.c
+ 1947  ls
+ 1948  cat codeA.c
+ 1949  vi codeA.c
+ 1950  cat codeA.c
+ 1951  vi codeA.c
+ 1952  screen
+ 1953  sudo apt install screen
+ 1954  screen
+ 1955  ls -l
+ 1956  whoami
+ 1957  pwd
+ 1958  micro myscript.sh
+ 1959  sudo apt install micro
+ 1960  touch myscript.sh
+ 1961  vim myscript.sh
+ 1962  cat myscript.sh
+ 1963  ./ myscript.sh
+ 1964  ./myscript.sh
+ 1965  chomd +x myscript.sh
+ 1966  chmod +x myscript.sh
+ 1967  ./myscript.sh
+ 1968  vim myscript.sh
+ 1969  ./myscript.sh
+ 1970  vim Program.sh
+ 1971  cat Program.sh
+ 1972  ./Program.sh
+ 1973  chmod +x Program.sh
+ 1974  ./Program.sh
+ 1975  vim Program.sh
+ 1976  ./Program.sh
+ 1977  bash Program.sh
+ 1978  $bash
+ 1979  $BASH
+ 1980  SCREN -R
+ 1981  screen -r
+ 1982  touch myscript2.sh
+ 1983  vim myscript2.sh
+ 1984  chmod +x myscript2.sh
+ 1985  ./myscript2.sh
+ 1986  CAT myscript2.sh
+ 1987  cat myscript2.sh
+ 1988  cp  myscript2.sh myscr22.sh
+ 1989  vim myscr22.sh
+ 1990  ./myscr22.sh
+ 1991  cp myscr22.sh myscript3.sh
+ 1992  vim myscript3.sh
+ 1993  ./myscript3.sh
+ 1994  cat myscript3.sh
+ 1995  echo $BASH
+ 1996  echo $HOME
+ 1997  vim myscript3.sh
+ 1998  ./myscript3.sh
+ 1999  vim myscript3.sh
+ 2000  ./myscript3.sh
+ 2001  vim myscript3.sh
+ 2002  ./myscript3.sh
+ 2003  vim myscript3.sh
+ 2004  ./myscript3.sh
+ 2005  vim myscript3.sh
+ 2006  ./myscript3.sh
+ 2007  cp myscript3.sh myscript4.sh
+ 2008  nano myscript4.sh
+ 2009  ./myscript4.sh
+ 2010  nano myscript4.sh
+ 2011  ./myscript4.sh
+ 2012  history
+student@Linux-VM-00:~/Deb Lab8$ 
