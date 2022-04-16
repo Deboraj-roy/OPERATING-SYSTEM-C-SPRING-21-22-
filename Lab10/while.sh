@@ -13,7 +13,4 @@ read NUMBER
 
 echo "$ID, $NUMBER" >> testF.txt
 
-esac
-
 done
-
