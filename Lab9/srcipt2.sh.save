@@ -1,0 +1,27 @@
+#!/bin/bash
+
+#this is just a if elsse demo shell script
+
+read -p 'Enter your age :' age
+
+echo "Age :" $age
+
+if [  -gt 5 ]
+then 
+   echo "Count is greater than 5"
+else 
+  echo "Count is not greter than 5"
+
+fi 
+
+#checking a value within a range
+
+if [ $count -gt 0 ] && [ $count -lt 18 ]
+then
+  echo "Teenager"
+
+else
+
+  echo "Adult"
+
+fi
